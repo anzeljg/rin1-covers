@@ -20,7 +20,7 @@
 - 1305: https://s3.observador.pt/wp-content/uploads/2017/01/03145531/pcmag-benelux.jpg
 - 1306: https://pixabay.com/photos/control-room-power-plant-energy-1782196/
 - 1307: https://pixabay.com/photos/bookshelf-books-profession-read-492637/
-- 1308: predlagam eno od naslednjih dveh fotk za naslovnico učne enote (v e-učbeniku tega ne moremo spremeniti, ker je slika naslovnice učne enote animirana ...) https://pixabay.com/photos/guard-england-soldier-castle-3431456/ (ali: https://pixabay.com/photos/guard-british-united-kingdom-510090/)
+- 1308: predlagam eno od naslednjih dveh fotk za naslovnico učne enote (v e-učbeniku tega ne moremo spremeniti, ker je slika naslovnice učne enote animirana ...) https://pixabay.com/photos/guard-england-soldier-castle-3431456/ - uporabi naj se desni del fotke s stražo in vhodom ... (ali: https://pixabay.com/photos/guard-british-united-kingdom-510090/)
 - 1309: https://media.defense.gov/2009/May/1/10336/-1/-1/0/090507-M-3035F-554.jpg
 - 1310: https://pixabay.com/photos/tunnel-mountain-bus-holiday-1696286/
 - 1401: https://pixabay.com/photos/cobweb-morgentau-sunrise-sparkle-451924/
